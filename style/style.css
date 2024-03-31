@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column  ;
+    justify-content: end;
+    align-items: center;
+
+
+    background-color: azure;
+    border-style: solid;
+    border-radius: 10px;
+
+}
+
+button {
+    border: none;
+    background-color: cadetblue;
+    border-style: dotted;
+    margin-bottom: 10px; 
+}
+
